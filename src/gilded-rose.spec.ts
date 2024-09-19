@@ -1,4 +1,5 @@
-import { GildedRose, Item } from './gilded-rose';
+import { GildedRose } from './gilded-rose';
+import { Item } from './item';
 
 describe('Gilded Rose', () => {
   let gildedRose: GildedRose;
